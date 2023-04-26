@@ -1,1 +1,1 @@
-# pekenioo.pig-game.github.io
+# https://pekenio-pig-game.netlify.app
